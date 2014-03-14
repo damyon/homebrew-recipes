@@ -1,7 +1,8 @@
 homebrew-recipes
 ================
 
-This is a collection of my homebrew recipes that I will add to and update over time.
+This repository contains a collection of my homebrew recipes that I will add to and update over time.
 
-List of recipes:
+The recipes are all stored in the [project wiki](https://github.com/damyon/homebrew-recipes/wiki).
+
 
