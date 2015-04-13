@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="299.02949"
-     inkscape:cy="165.6885"
+     inkscape:cy="731.37392"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,7 +96,11 @@
            height="407.14285"
            x="58.57143"
            y="155.21933" /></flowRegion><flowPara
-         id="flowPara11325">When the wort has cooled to below 30 C, we can put it in the fermenter and pitch the yeast. If adding hops at this stage, the hops bag MUST be sterilized (or don't use a bag and we can filter later). Just gravity feed the wort down to the fermenter.</flowPara><flowPara
+         id="flowPara11325">When the wort has cooled to below 30 C, we can put it in the  sterilized fermenter and pitch the yeast. If adding hops at this stage, the hops bag MUST be sterilized (or don't use a bag and we can filter later). Just gravity feed the wort down to the fermenter.</flowPara><flowPara
+         id="flowPara3034" /><flowPara
+         id="flowPara3036">Note - for sterilizing mix up one heaped teaspoon of keg and line cleaner in the spray bottle, and then after cleaning the fermenter with water + paper towel, spray all surfaces with the spray bottle (don't wipe off). </flowPara><flowPara
+         id="flowPara3038" /><flowPara
+         id="flowPara3040" /><flowPara
          id="flowPara11323" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 60,912.36218 620,0"

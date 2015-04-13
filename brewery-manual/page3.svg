@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="307.17632"
-     inkscape:cy="608.18679"
+     inkscape:cx="369.57223"
+     inkscape:cy="740.23097"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -100,6 +100,11 @@
          id="flowPara5036">* Connect a hose to the tap on the urn into the keg</flowPara><flowPara
          id="flowPara5040">* Open the tap on the urn</flowPara><flowPara
          id="flowPara5044">* Close the tap on the urn as soon as 2/3 of the water from the urn has been moved to the keg</flowPara><flowPara
+         id="flowPara3072">* While doing next step we also want to fill the urn back up with hot water</flowPara><flowPara
+         id="flowPara3078">To do this, boil some kettles and top up the water level in the urn. </flowPara><flowPara
+         id="flowPara3080">There is no rush, it just needs to be full before the mash is complete </flowPara><flowPara
+         id="flowPara3082">and ready for sparging. It will need 6 x 2L kettles of boiling water.</flowPara><flowPara
+         id="flowPara3076" /><flowPara
          id="flowPara5048" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 60,912.36218 620,0"
@@ -300,5 +305,163 @@
        x="320"
        y="812.36218"
        ry="1.6414979" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 560,252.36218 c 0,40 0,40 0,40"
+       id="path3034"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3036"
+       width="80"
+       height="130"
+       x="520"
+       y="292.36218" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3038"
+       sodipodi:cx="545"
+       sodipodi:cy="407.36218"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="translate(-7.323606,-2.5253814)" />
+    <path
+       transform="translate(-7.8286823,-21.970818)"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       sodipodi:ry="5"
+       sodipodi:rx="5"
+       sodipodi:cy="407.36218"
+       sodipodi:cx="545"
+       id="path3040"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3042"
+       sodipodi:cx="545"
+       sodipodi:cy="407.36218"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="translate(-8.0812204,-42.173869)" />
+    <path
+       transform="translate(-8.0812204,-62.629458)"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       sodipodi:ry="5"
+       sodipodi:rx="5"
+       sodipodi:cy="407.36218"
+       sodipodi:cx="545"
+       id="path3044"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3046"
+       sodipodi:cx="545"
+       sodipodi:cy="407.36218"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="translate(-8.0812204,-82.832509)" />
+    <path
+       transform="translate(38.385797,-83.085047)"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       sodipodi:ry="5"
+       sodipodi:rx="5"
+       sodipodi:cy="407.36218"
+       sodipodi:cx="545"
+       id="path3048"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3050"
+       sodipodi:cx="545"
+       sodipodi:cy="407.36218"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="translate(38.638335,-62.629458)" />
+    <path
+       transform="translate(38.638335,-42.173869)"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       sodipodi:ry="5"
+       sodipodi:rx="5"
+       sodipodi:cy="407.36218"
+       sodipodi:cx="545"
+       id="path3052"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3054"
+       sodipodi:cx="545"
+       sodipodi:cy="407.36218"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="translate(38.133259,-21.71828)" />
+    <path
+       transform="translate(38.133259,-3.0304579)"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       sodipodi:ry="5"
+       sodipodi:rx="5"
+       sodipodi:cy="407.36218"
+       sodipodi:cx="545"
+       id="path3056"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3058"
+       sodipodi:cx="545"
+       sodipodi:cy="407.36218"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="translate(15.909903,-10.85914)" />
+    <path
+       transform="translate(15.404827,-31.567267)"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       sodipodi:ry="5"
+       sodipodi:rx="5"
+       sodipodi:cy="407.36218"
+       sodipodi:cx="545"
+       id="path3060"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#868686;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3062"
+       sodipodi:cx="545"
+       sodipodi:cy="407.36218"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 550,407.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="translate(15.152289,-52.78047)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 510,367.36218 100,0"
+       id="path3064"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Andika;-inkscape-font-specification:Andika"
+       x="610"
+       y="372.36218"
+       id="text3066"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3068"
+         x="610"
+         y="372.36218">Drain to here</tspan></text>
   </g>
 </svg>
